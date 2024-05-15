@@ -567,12 +567,20 @@ video {
   width: 7.5rem;
 }
 
+.w-500px {
+  width: 500px;
+}
+
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
 .pt-10 {
   padding-top: 2.5rem;
+}
+
+.pr-6 {
+  padding-right: 1.5rem;
 }
 
 .text-subtitle {
